@@ -1,0 +1,55 @@
+*{
+  font-family: "Inter", "Angkor" serif;
+  color: darkblue;
+
+  
+  h1{
+    text-align: center;
+    color: darkblue;
+
+  } 
+
+.container{
+    width: 650px;
+    margin: auto;
+    background-color: whitesmoke;
+    border: 1px solid darkblue;
+    padding: 0 30px;
+}
+.heading{
+    font-variant: small-caps;
+    text-align: center;
+    color: blue;
+}
+h2{
+    font-weight: normal;
+    font-size: 16px;
+}
+.brand{
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-weight: bold;
+
+}
+hr{
+    border: none;
+    background-color: gray;
+    height: 3px;
+}
+.btn{
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 8px;
+padding-bottom: 8px;
+background-color: blue;
+color: white;
+border: none;
+border-radius: 8px;
+letter-spacing: 4px;
+margin-bottom: 30px;
+
+
+
+}
+  
+}
